@@ -1,0 +1,11 @@
+{
+  "name": "protractorTestRailBug",
+  "version": "0.0.1",
+  "devDependencies": {
+    "chai": "latest",
+    "chai-as-promised": "^7.0.0",
+    "mocha": "^3.4.2",
+    "mocha-testrail-reporter": "^1.0.10",
+    "protractor": "^5.1.2"
+  }
+}
